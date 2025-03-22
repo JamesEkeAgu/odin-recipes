@@ -6,4 +6,5 @@ Added and styled necessary images for more appealing visuals.
 Further added headers, paragraphs, and lists to the two new pages (rice.html and spaghetti.html)
 Staged all files and folders through 'git add'
 Committed all staged files and folders through 'git commit'
-Finally pushed to github with 'git push origin main'
+Pushed to github with 'git push origin main'
+Changed the github page branch from none to main.
